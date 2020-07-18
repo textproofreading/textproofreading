@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...JCJC人工智能错别字检测系统
+
+<!--
+
 ![JCJC人工智能错别字检测系统](https://github.com/textproofreading/textproofreading/blob/master/Screenshot_2020-07-18%20JCJC%E9%94%99%E5%88%AB%E5%AD%97%E6%A3%80%E6%B5%8B-JCJC%E9%94%99%E5%88%AB%E5%AD%97%E5%9C%A8%E7%BA%BF%E6%A3%80%E6%B5%8B.png?raw=true)
 
 
-<!--
 **textproofreading/textproofreading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
